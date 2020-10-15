@@ -1,0 +1,13 @@
+C:\Users\kunin\source\repos\LNU\LNU\bin\Debug\netcoreapp3.1\LNU.exe
+C:\Users\kunin\source\repos\LNU\LNU\bin\Debug\netcoreapp3.1\LNU.deps.json
+C:\Users\kunin\source\repos\LNU\LNU\bin\Debug\netcoreapp3.1\LNU.runtimeconfig.json
+C:\Users\kunin\source\repos\LNU\LNU\bin\Debug\netcoreapp3.1\LNU.runtimeconfig.dev.json
+C:\Users\kunin\source\repos\LNU\LNU\bin\Debug\netcoreapp3.1\LNU.dll
+C:\Users\kunin\source\repos\LNU\LNU\bin\Debug\netcoreapp3.1\LNU.pdb
+C:\Users\kunin\source\repos\LNU\LNU\obj\Debug\netcoreapp3.1\LNU.csprojAssemblyReference.cache
+C:\Users\kunin\source\repos\LNU\LNU\obj\Debug\netcoreapp3.1\LNU.AssemblyInfoInputs.cache
+C:\Users\kunin\source\repos\LNU\LNU\obj\Debug\netcoreapp3.1\LNU.AssemblyInfo.cs
+C:\Users\kunin\source\repos\LNU\LNU\obj\Debug\netcoreapp3.1\LNU.csproj.CoreCompileInputs.cache
+C:\Users\kunin\source\repos\LNU\LNU\obj\Debug\netcoreapp3.1\LNU.dll
+C:\Users\kunin\source\repos\LNU\LNU\obj\Debug\netcoreapp3.1\LNU.pdb
+C:\Users\kunin\source\repos\LNU\LNU\obj\Debug\netcoreapp3.1\LNU.genruntimeconfig.cache
