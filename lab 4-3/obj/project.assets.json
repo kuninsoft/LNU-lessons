@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kunin\\source\\repos\\LNU-lessons\\lab 4-3\\lab 4-3.csproj",
+      "projectUniqueName": "C:\\Users\\kunin\\Source\\Repos\\LNU-lessons\\lab 4-3\\lab 4-3.csproj",
       "projectName": "lab 4-3",
-      "projectPath": "C:\\Users\\kunin\\source\\repos\\LNU-lessons\\lab 4-3\\lab 4-3.csproj",
+      "projectPath": "C:\\Users\\kunin\\Source\\Repos\\LNU-lessons\\lab 4-3\\lab 4-3.csproj",
       "packagesPath": "C:\\Users\\kunin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kunin\\source\\repos\\LNU-lessons\\lab 4-3\\obj\\",
+      "outputPath": "C:\\Users\\kunin\\Source\\Repos\\LNU-lessons\\lab 4-3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kunin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6,7 +6,7 @@ namespace lab_rand
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Something in here
         }
     }
 }
