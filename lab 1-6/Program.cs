@@ -6,13 +6,10 @@ namespace lab_1_6
     {
         static void Main(string[] args)
         {
-            float input;
-            float result;
-
             Console.Write("Enter a floating-point number: ");
-            input = float.Parse(Console.ReadLine());
-
-            result = (float)Math.Sqrt(Math.Ceiling(input));
+            
+            var input = float.Parse(Console.ReadLine());
+            var result = (float)Math.Sqrt(Math.Ceiling(input));
 
             Console.WriteLine($"Result is: {result}");
 

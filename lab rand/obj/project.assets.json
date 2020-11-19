@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kunin\\Source\\Repos\\LNU-lessons\\lab rand\\lab rand.csproj",
+      "projectUniqueName": "C:\\Users\\kunin\\RiderProjects\\LNU-lessons\\lab rand\\lab rand.csproj",
       "projectName": "lab rand",
-      "projectPath": "C:\\Users\\kunin\\Source\\Repos\\LNU-lessons\\lab rand\\lab rand.csproj",
+      "projectPath": "C:\\Users\\kunin\\RiderProjects\\LNU-lessons\\lab rand\\lab rand.csproj",
       "packagesPath": "C:\\Users\\kunin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kunin\\Source\\Repos\\LNU-lessons\\lab rand\\obj\\",
+      "outputPath": "C:\\Users\\kunin\\RiderProjects\\LNU-lessons\\lab rand\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kunin\\AppData\\Roaming\\NuGet\\NuGet.Config",

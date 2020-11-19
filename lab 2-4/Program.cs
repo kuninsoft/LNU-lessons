@@ -6,10 +6,8 @@ namespace lab_2_4
     {
         static void Main(string[] args)
         {
-            string[] input;
-
             Console.Write("Enter string separated by commas and spaces (e.g. \"one, two, three\"): ");
-            input = Console.ReadLine().Split(", ");
+            var input = Console.ReadLine().Split(", ");
 
             Array.Sort(input, StringComparer.InvariantCultureIgnoreCase);
 

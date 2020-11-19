@@ -2,8 +2,8 @@
 {
     struct Person
     {
-        string _firstname, _lastname;
-        byte _age;
+        private string _firstname, _lastname;
+        private byte _age;
 
         public Person(string firstname, string lastname, byte age)
         {
@@ -12,20 +12,17 @@
             _age = age;
         }
 
-        public string isOlderThan(byte n)
+        public string IsOlderThan(byte n)
         {
             if (_age > n)
             {
                 return $"{_firstname} {_lastname} is older than {n}.";
             }
-            else if (_age < n)
+            if (_age < n)
             {
                 return $"{_firstname} {_lastname} is younger than {n}.";
             }
-            else
-            {
-                return $"{_firstname} {_lastname} is exactly {n} years old.";
-            }
+            return $"{_firstname} {_lastname} is exactly {n} years old.";
         }
     }
 }

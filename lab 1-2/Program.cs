@@ -6,12 +6,9 @@ namespace lab_1_2
     {
         static void Main(string[] args)
         {
-            float edgeLength;
-            float volume;
-
             Console.Write("Enter edge length: ");
-            edgeLength = float.Parse(Console.ReadLine());
-            volume = edgeLength * edgeLength * edgeLength;
+            var edgeLength = float.Parse(Console.ReadLine());
+            var volume = edgeLength * edgeLength * edgeLength;
 
             Console.WriteLine($"Volume of cube: {volume}");
 

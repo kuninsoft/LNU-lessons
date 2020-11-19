@@ -4,7 +4,7 @@ namespace lab_4_4
 {
     class Rectangle : Figure, IDrawable
     {
-        public Rectangle(float X, float Y) : base(X, Y)
+        public Rectangle(float x, float y) : base(x, y)
         {
 
         }

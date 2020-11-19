@@ -6,13 +6,10 @@ namespace lab_1_1
     {
         static void Main(string[] args)
         {
-            float radius;
-            float area;
-
             Console.Write("Enter radius: ");
 
-            radius = float.Parse(Console.ReadLine());
-            area = radius * radius * (float)Math.PI;
+            var radius = float.Parse(Console.ReadLine());
+            var area = radius * radius * (float)Math.PI;
 
             Console.WriteLine("Area is: {0}", area);
 

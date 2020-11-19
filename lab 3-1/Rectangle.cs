@@ -2,30 +2,30 @@
 {
     class Rectangle
     {
-        private Vertex leftTopVertex;
-        private Vertex rightBottomVertex;
+        private Vertex _leftTopVertex;
+        private Vertex _rightBottomVertex;
 
         // For calculating edge lengths so we can calculate area and perimeter.
-        private double verticalEdge;
-        private double horizontalEdge;
+        private double _verticalEdge;
+        private double _horizontalEdge;
 
         public Rectangle(Vertex leftTopVertex, Vertex rightBottomVertex)
         {
-            this.leftTopVertex = leftTopVertex;
-            this.rightBottomVertex = rightBottomVertex;
+            this._leftTopVertex = leftTopVertex;
+            this._rightBottomVertex = rightBottomVertex;
 
-            verticalEdge = leftTopVertex.Y - rightBottomVertex.Y;
-            horizontalEdge = rightBottomVertex.X - leftTopVertex.X;
+            _verticalEdge = leftTopVertex.Y - rightBottomVertex.Y;
+            _horizontalEdge = rightBottomVertex.X - leftTopVertex.X;
         }
 
         public double GetArea()
         {
-            return verticalEdge * horizontalEdge;
+            return _verticalEdge * _horizontalEdge;
         }
 
         public double GetPerimeter()
         {
-            return verticalEdge * 2 + horizontalEdge * 2;
+            return _verticalEdge * 2 + _horizontalEdge * 2;
         }
     }
 }

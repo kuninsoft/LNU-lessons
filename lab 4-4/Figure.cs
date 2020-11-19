@@ -7,10 +7,10 @@ namespace lab_4_4
         public float X { get; private set; }
         public float Y { get; private set; }
 
-        public Figure(float X, float Y)
+        public Figure(float x, float y)
         {
-            this.X = X;
-            this.Y = Y;
+            this.X = x;
+            this.Y = y;
         }
 
         void IDrawable.Draw()

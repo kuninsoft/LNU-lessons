@@ -7,13 +7,13 @@ namespace lab_5_4
         public static void PrintColors(this Colors color)
         {
             // Getting values array of our enum and casting it to int[]
-            int[] values = (int[])Enum.GetValues(color.GetType());
+            var values = (int[])Enum.GetValues(color.GetType());
 
             Array.Sort(values);
 
-            for (int i = 0; i < values.Length; i++)
+            foreach (var t in values)
             {
-                Console.WriteLine("{0} = {1}", (Colors)values[i], values[i]);
+                Console.WriteLine($"{(Colors)t} = {t}");
             }
         }
     }

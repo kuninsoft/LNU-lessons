@@ -6,13 +6,10 @@ namespace lab_1_5
     {
         static void Main(string[] args)
         {
-            int input;
-            float result;
-            
             Console.Write("Enter a prime number: ");
             
-            input = int.Parse(Console.ReadLine());
-            result = (float)input / 2;
+            var input = int.Parse(Console.ReadLine());
+            var result = (float)input / 2;
 
             Console.WriteLine("Result is: {0:0.00}", Math.Round(result, 2));
 

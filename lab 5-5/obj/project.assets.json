@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kunin\\source\\repos\\LNU-lessons\\lab 5-5\\lab 5-5.csproj",
+      "projectUniqueName": "C:\\Users\\kunin\\RiderProjects\\LNU-lessons\\lab 5-5\\lab 5-5.csproj",
       "projectName": "lab 5-5",
-      "projectPath": "C:\\Users\\kunin\\source\\repos\\LNU-lessons\\lab 5-5\\lab 5-5.csproj",
+      "projectPath": "C:\\Users\\kunin\\RiderProjects\\LNU-lessons\\lab 5-5\\lab 5-5.csproj",
       "packagesPath": "C:\\Users\\kunin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kunin\\source\\repos\\LNU-lessons\\lab 5-5\\obj\\",
+      "outputPath": "C:\\Users\\kunin\\RiderProjects\\LNU-lessons\\lab 5-5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kunin\\AppData\\Roaming\\NuGet\\NuGet.Config",

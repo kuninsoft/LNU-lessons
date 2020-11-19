@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kunin\\Source\\Repos\\LNU-lessons\\lab 2-1\\lab 2-1.csproj": {}
+    "C:\\Users\\kunin\\RiderProjects\\LNU-lessons\\lab 2-1\\lab 2-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kunin\\Source\\Repos\\LNU-lessons\\lab 2-1\\lab 2-1.csproj": {
+    "C:\\Users\\kunin\\RiderProjects\\LNU-lessons\\lab 2-1\\lab 2-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kunin\\Source\\Repos\\LNU-lessons\\lab 2-1\\lab 2-1.csproj",
+        "projectUniqueName": "C:\\Users\\kunin\\RiderProjects\\LNU-lessons\\lab 2-1\\lab 2-1.csproj",
         "projectName": "lab 2-1",
-        "projectPath": "C:\\Users\\kunin\\Source\\Repos\\LNU-lessons\\lab 2-1\\lab 2-1.csproj",
+        "projectPath": "C:\\Users\\kunin\\RiderProjects\\LNU-lessons\\lab 2-1\\lab 2-1.csproj",
         "packagesPath": "C:\\Users\\kunin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kunin\\Source\\Repos\\LNU-lessons\\lab 2-1\\obj\\",
+        "outputPath": "C:\\Users\\kunin\\RiderProjects\\LNU-lessons\\lab 2-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kunin\\AppData\\Roaming\\NuGet\\NuGet.Config",

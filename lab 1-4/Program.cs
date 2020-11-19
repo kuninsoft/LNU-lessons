@@ -6,10 +6,8 @@ namespace lab_1_4
     {
         static void Main(string[] args)
         {
-            float input;
-
             Console.Write("Enter a floating-point number: ");
-            input = float.Parse(Console.ReadLine());
+            var input = float.Parse(Console.ReadLine());
 
             Console.WriteLine($"Integral part: {Math.Truncate(input)}. Rounded: {Math.Round(input)}.");
 

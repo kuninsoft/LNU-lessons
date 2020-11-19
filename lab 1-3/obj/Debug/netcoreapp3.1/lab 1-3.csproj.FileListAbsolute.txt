@@ -11,3 +11,16 @@ C:\Users\kunin\source\repos\LNU\lab 1-3\obj\Debug\netcoreapp3.1\lab 1-3.csproj.C
 C:\Users\kunin\source\repos\LNU\lab 1-3\obj\Debug\netcoreapp3.1\lab 1-3.dll
 C:\Users\kunin\source\repos\LNU\lab 1-3\obj\Debug\netcoreapp3.1\lab 1-3.pdb
 C:\Users\kunin\source\repos\LNU\lab 1-3\obj\Debug\netcoreapp3.1\lab 1-3.genruntimeconfig.cache
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\bin\Debug\netcoreapp3.1\lab 1-3.exe
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\bin\Debug\netcoreapp3.1\lab 1-3.deps.json
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\bin\Debug\netcoreapp3.1\lab 1-3.runtimeconfig.json
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\bin\Debug\netcoreapp3.1\lab 1-3.runtimeconfig.dev.json
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\bin\Debug\netcoreapp3.1\lab 1-3.dll
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\bin\Debug\netcoreapp3.1\lab 1-3.pdb
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\obj\Debug\netcoreapp3.1\lab 1-3.csprojAssemblyReference.cache
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\obj\Debug\netcoreapp3.1\lab 1-3.AssemblyInfoInputs.cache
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\obj\Debug\netcoreapp3.1\lab 1-3.AssemblyInfo.cs
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\obj\Debug\netcoreapp3.1\lab 1-3.csproj.CoreCompileInputs.cache
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\obj\Debug\netcoreapp3.1\lab 1-3.dll
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\obj\Debug\netcoreapp3.1\lab 1-3.pdb
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 1-3\obj\Debug\netcoreapp3.1\lab 1-3.genruntimeconfig.cache

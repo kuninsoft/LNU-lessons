@@ -6,10 +6,8 @@ namespace lab_2_1
     {
         static void Main(string[] args)
         {
-            string names;
-
             Console.Write("Enter user names, separated with commas: ");
-            names = Console.ReadLine();
+            var names = Console.ReadLine();
             Console.WriteLine($"Usernames in lowercase: {names.ToLower()}");
 
             Console.ReadKey();

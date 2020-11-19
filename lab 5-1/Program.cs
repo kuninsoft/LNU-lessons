@@ -7,19 +7,15 @@ namespace lab_5_1
     {
         static void Main(string[] args)
         {
-            Person person;
-            string[] input;
-            byte n;
-
             Console.Write("Enter person's name, surname and age, separated by spaces: ");
-            input = Console.ReadLine().Split(' ');
+            var input = Console.ReadLine().Split(' ');
 
-            person = new Person(input[0], input[1], byte.Parse(input[2]));
+            var person = new Person(input[0], input[1], byte.Parse(input[2]));
 
             Console.Write("Enter random number N (N > 0): ");
-            n = byte.Parse(Console.ReadLine());
+            var n = byte.Parse(Console.ReadLine());
 
-            Console.WriteLine(person.isOlderThan(n));
+            Console.WriteLine(person.IsOlderThan(n));
 
             Console.ReadKey();
         }
