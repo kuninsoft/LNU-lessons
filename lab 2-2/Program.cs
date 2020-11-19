@@ -7,7 +7,7 @@ namespace lab_2_2
         static void Main(string[] args)
         {
             Console.Write("Enter two surnames, separated by commas: ");
-            var surnames = Console.ReadLine().Split(',');
+            var surnames = Console.ReadLine().Split( ", ");
             
             if (surnames[0].Equals(surnames[1], StringComparison.InvariantCultureIgnoreCase))
             {

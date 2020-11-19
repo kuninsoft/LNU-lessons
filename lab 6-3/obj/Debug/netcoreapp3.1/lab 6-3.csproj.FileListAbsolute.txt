@@ -1,0 +1,13 @@
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\bin\Debug\netcoreapp3.1\lab 6-3.exe
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\bin\Debug\netcoreapp3.1\lab 6-3.deps.json
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\bin\Debug\netcoreapp3.1\lab 6-3.runtimeconfig.json
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\bin\Debug\netcoreapp3.1\lab 6-3.runtimeconfig.dev.json
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\bin\Debug\netcoreapp3.1\lab 6-3.dll
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\bin\Debug\netcoreapp3.1\lab 6-3.pdb
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\obj\Debug\netcoreapp3.1\lab 6-3.csprojAssemblyReference.cache
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\obj\Debug\netcoreapp3.1\lab 6-3.AssemblyInfoInputs.cache
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\obj\Debug\netcoreapp3.1\lab 6-3.AssemblyInfo.cs
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\obj\Debug\netcoreapp3.1\lab 6-3.csproj.CoreCompileInputs.cache
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\obj\Debug\netcoreapp3.1\lab 6-3.dll
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\obj\Debug\netcoreapp3.1\lab 6-3.pdb
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 6-3\obj\Debug\netcoreapp3.1\lab 6-3.genruntimeconfig.cache

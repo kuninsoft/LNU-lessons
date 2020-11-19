@@ -11,6 +11,13 @@ namespace lab_4_2
 
             sq.Draw();
             rect.Draw();
+
+            Console.WriteLine("Square:\n\t" +
+                              $"X: {sq.X}\n\t" +
+                              $"Y: {sq.Y}\n" + 
+                              "Rectangle:\n\t" +
+                              $"X: {rect.X}\n\t" +
+                              $"Y: {rect.Y}");
         }
     }
 }

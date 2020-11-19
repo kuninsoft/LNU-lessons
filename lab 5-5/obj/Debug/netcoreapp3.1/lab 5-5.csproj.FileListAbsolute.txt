@@ -22,3 +22,4 @@ C:\Users\kunin\RiderProjects\LNU-lessons\lab 5-5\obj\Debug\netcoreapp3.1\lab 5-5
 C:\Users\kunin\RiderProjects\LNU-lessons\lab 5-5\obj\Debug\netcoreapp3.1\lab 5-5.dll
 C:\Users\kunin\RiderProjects\LNU-lessons\lab 5-5\obj\Debug\netcoreapp3.1\lab 5-5.pdb
 C:\Users\kunin\RiderProjects\LNU-lessons\lab 5-5\obj\Debug\netcoreapp3.1\lab 5-5.genruntimeconfig.cache
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 5-5\obj\Debug\netcoreapp3.1\lab 5-5.csprojAssemblyReference.cache
