@@ -8,7 +8,7 @@ namespace lab_6_2
         static bool CheckIfPrime(int number)
         {
             if (number <= 1) return false;
-            for (var i = 2; i < Math.Ceiling(Math.Sqrt(number)); i++)
+            for (var i = 2; i < number; i++)
             {
                 if (number % i == 0) return false;
             }

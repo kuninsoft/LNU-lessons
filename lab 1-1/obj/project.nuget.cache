@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "H+7f7UB2OD8zzqMVkyaty3mc6uj7GhJOo0/r0nF4n/B8rJ1Tv2O29uqgahnbAVf40Mn8o6nLiIPlyi4ONgdYfA==",
+  "dgSpecHash": "BqwRXXoFLx+VUkGtm/FrLUuz9kxhxVCWG01Y6BuDJmcGE+4qTGWnTaWwE5KMTfFGSWiMZ3sRQ42pdkmkNeH8Mw==",
   "success": true,
   "projectFilePath": "C:\\Users\\kunin\\RiderProjects\\LNU-lessons\\lab 1-1\\lab 1-1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kunin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\kunin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
