@@ -1,0 +1,9 @@
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 7-3\bin\Debug\net48\lab 7-3.exe.config
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 7-3\bin\Debug\net48\lab 7-3.exe
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 7-3\bin\Debug\net48\lab 7-3.pdb
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 7-3\obj\Debug\net48\lab 7-3.csprojAssemblyReference.cache
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 7-3\obj\Debug\net48\lab 7-3.AssemblyInfoInputs.cache
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 7-3\obj\Debug\net48\lab 7-3.AssemblyInfo.cs
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 7-3\obj\Debug\net48\lab 7-3.csproj.CoreCompileInputs.cache
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 7-3\obj\Debug\net48\lab 7-3.exe
+C:\Users\kunin\RiderProjects\LNU-lessons\lab 7-3\obj\Debug\net48\lab 7-3.pdb
