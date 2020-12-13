@@ -9,8 +9,8 @@
         private double _verticalEdge;
         private double _horizontalEdge;
 
-        public double Area { get; private set; }
-        public double Perimeter { get; private set; }
+        public double Area { get; }
+        public double Perimeter { get; }
 
         public Rectangle(Vertex leftTopVertex, Vertex rightBottomVertex)
         {

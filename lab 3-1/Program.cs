@@ -8,10 +8,11 @@ namespace lab_3_1
         {
             var inputVertex = new double[4];
 
-            Console.Write("Enter coordinates of left-top vertex and right-bottom vertex of rectangle, separated by spaces.\n(e.g. 2 3 2 1): ");
+            Console.Write(
+                "Enter coordinates of left-top vertex and right-bottom vertex of rectangle, separated by spaces.\n(e.g. 2 3 2 1): ");
 
             var input = Console.ReadLine().Split(' ');
-            
+
             for (int i = 0; i < 4; i++)
             {
                 inputVertex[i] = double.Parse(input[i]);
@@ -27,4 +28,6 @@ namespace lab_3_1
             Console.ReadKey();
         }
     }
+    
+    
 }
