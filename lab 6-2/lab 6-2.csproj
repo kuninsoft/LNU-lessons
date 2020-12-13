@@ -4,6 +4,7 @@
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp3.1</TargetFramework>
         <RootNamespace>lab_6_2</RootNamespace>
+        <LangVersion>latest</LangVersion>
     </PropertyGroup>
 
 </Project>
